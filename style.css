@@ -3,10 +3,10 @@
 }
 
 body{
-  background:#D4E157;
-  color:#485e74;
+  background:#87bbe1;
+  color:#487174;
   line-height:1.6;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Times New Roman', Tahoma, Geneva, Verdana, sans-serif;
   padding:1em;
 }
 
@@ -78,13 +78,13 @@ ul{
 }
 
 .contact form button{
-  background:#FFE082;
+  background:#82cdff;
   border:0;
   text-transform: uppercase;
 }
 
 .contact form button:hover,.contact form button:focus{
-  background:#D4E157;
+  background:#87bbe1;
   color:#fff;
   outline:0;
   transition: background-color 2s ease-out;
