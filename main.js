@@ -1,12 +1,12 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-  apiKey: "AIzaSyB32-o4GcpHk5SDYzXkCAUk9x9utulRg0Q",
-  authDomain: "contact-form-35eea.firebaseapp.com",
-  databaseURL: "https://contact-form-35eea.firebaseio.com",
-  projectId: "contact-form-35eea",
-  storageBucket: "",
-  messagingSenderId: "534738432534"
-};
+    apiKey: "AIzaSyCPqTF7qRqfEbRwp8R2L2VDLfDIyUQ8PoM",
+    authDomain: "feedback-26db5.firebaseapp.com",
+    databaseURL: "https://feedback-26db5.firebaseio.com",
+    projectId: "feedback-26db5",
+    storageBucket: "feedback-26db5.appspot.com",
+    messagingSenderId: "120622055508"
+  };
 firebase.initializeApp(config);
 
 // Reference messages collection
